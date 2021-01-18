@@ -6,4 +6,5 @@ This assignment is all about YOU! We want to help you in your learning while you
 - Watch video
 - Complete the issue tickets
 
-### Walkthrough Video
+### [Walkthrough Video]()
+<a href="https://www.google.com" target="_blank"><img src="my-goals-vid-placeholder.png" width="50%"/></a>
